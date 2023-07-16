@@ -7,4 +7,4 @@
 
 # Probably touch this stuff in the future
 ### My Projects: 
-[Facebook login page] https://github.com/AimKey/fe-exercise
+[Facebook login page](https://github.com/AimKey/fe-exercise)
