@@ -6,5 +6,4 @@
 - ⚡ Fun fact: I'm lazy af
 
 # Probably touch this stuff in the future
-### My Projects: 
-[Facebook login page](https://github.com/AimKey/fe-exercise)
+### [My Projects](https://github.com/AimKey/fe-exercise)
