@@ -7,4 +7,3 @@
 
 # Probably touch this stuff in the future
 ## [Know more about me](https://github.com/AimKey)
-[![Aimkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimKey)](https://github.com/anuraghazra/github-readme-stats)
