@@ -1,4 +1,4 @@
-<img width="185" height="60" alt="image" src="https://github.com/user-attachments/assets/c03ab01d-1f68-4dc0-8fc4-46e891f4c365" />### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on nothing yet
 - 🌱 I’m currently learning Java, C#  
